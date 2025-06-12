@@ -40,7 +40,7 @@ public class exercicio02 {
                 Consumo medio por litro: %.2f
                 ______________________
 
-                Total gasto em reais: %.2f
+                Total gasto em Reais: %.2f
             """.formatted(litros, quilometros, consumoMedio, totalGastoEmReal));
     }
 }
