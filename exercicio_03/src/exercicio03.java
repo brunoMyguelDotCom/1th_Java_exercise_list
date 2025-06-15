@@ -1,5 +1,5 @@
 /*
-Lista 01 - exercico 03
+Lista 01 - exercicio 03
 
 Enunciado:
  Um motorista de taxi deseja calcular o rendimento de seu carro na praça. Sabendo-se que o preço do

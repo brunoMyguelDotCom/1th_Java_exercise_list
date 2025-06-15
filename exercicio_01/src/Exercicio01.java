@@ -1,5 +1,5 @@
 /*
-Lista 01 - exercico 01
+Lista 01 - exercicio 01
 
 Enunciado: 
 Dado as seguintes informações de um funcionário: Nome, idade cargo e o seu salário bruto considere:

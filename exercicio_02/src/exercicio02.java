@@ -1,5 +1,5 @@
 /*
-Lista 01 - exercico 02
+Lista 01 - exercicio 02
 
 Enunciado:
 Escreva um programa que dado os litros de combustível gasto e os quilômetros percorridos por um

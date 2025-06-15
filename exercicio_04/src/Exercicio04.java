@@ -1,5 +1,5 @@
 /*
-Lista 01 - exercico 04
+Lista 01 - exercicio 04
 
 Enunciado:
 Uma empresa tem para um determinado funcionário uma ficha contendo o nome, número de horas
