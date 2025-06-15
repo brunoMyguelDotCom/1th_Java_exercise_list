@@ -10,8 +10,8 @@ Apresentar como saída.:
 • Marcação do Odômetro Inicial
 • Marcação do Odômetro Final
 • Quantidade de Quilômetros Percorridos no Dia.
-• Lucro (líquido) do Dia
-• Média do Consumo em Km/L
+• Lucro (líquido) do Dia.
+• Média do Consumo em Km/L.
  */
 
 import java.util.Scanner;
