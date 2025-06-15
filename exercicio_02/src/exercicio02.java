@@ -10,7 +10,8 @@ Calcular e Escrever.:
 • Litros de Combustível Gasto.
 • Total de Quilômetros Percorridos.
 • Total gasto de combustível em Real.
-• Consumo Médio de Combustível.*/
+• Consumo Médio de Combustível.
+*/
 
 import java.util.Scanner;
 

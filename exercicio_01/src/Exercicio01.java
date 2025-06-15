@@ -12,7 +12,8 @@ Faça um programa para:
 • Imprimir o salário bruto corrigido.
 • Imprimir o valor da gratificação.
 • Imprimir o valor do desconto.
-• Imprimir o salário líquido. */
+• Imprimir o salário líquido.
+*/
 
 import java.util.Scanner;
 
